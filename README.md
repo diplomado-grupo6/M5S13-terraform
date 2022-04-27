@@ -1,7 +1,7 @@
 # M5S13-terraform
 
 
-### Configurar parámetros
+### Configurar parámetros en terraform.tfvars
 ```
 name            = "diplodovmlmv3"
 location        = "eastus2"
